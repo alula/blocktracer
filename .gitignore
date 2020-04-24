@@ -1,0 +1,5 @@
+*.o
+*.so
+*.exe
+tracer
+.vscode
